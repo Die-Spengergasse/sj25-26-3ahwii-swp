@@ -1,5 +1,12 @@
 # sj25-26-3ahwii-swp
 
+## 2025-09-10
+
+- oo design
+- operator overload
+- strings parsen
+- new webapp
+
 ## HÜ vom 3.9
 
 GH Repo erstellen wenn nötig, URL an grafg@ schicken.
