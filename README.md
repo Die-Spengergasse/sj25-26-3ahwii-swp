@@ -2,6 +2,10 @@
 
 ## 2025-09-10
 
+HÜ: Programm incl. Tests fertigstellen!!
+throw / try / catch
+xunit verwenden
+
 - oo design
 - operator overload
 - strings parsen
