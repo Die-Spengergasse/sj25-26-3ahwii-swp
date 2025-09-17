@@ -1,5 +1,12 @@
 # sj25-26-3ahwii-swp
 
+## 2025-09-17
+
+HÜ
+
+- zu xunit informieren
+- testfälle generieren mit random()
+
 ## 2025-09-10
 
 HÜ: Programm incl. Tests fertigstellen!!
