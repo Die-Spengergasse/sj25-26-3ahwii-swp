@@ -1,2 +1,4 @@
 **/obj/
 **/bin/
+**/prisma/client/
+**/dev.db

@@ -1,0 +1,15 @@
+datasource db {
+    provider = "sqlite"
+    url      = "file:../dev.db"
+}
+
+generator client {
+    provider = "prisma-client"
+    output   = "client"
+    runtime  = "deno"
+}
+
+model hello {
+    id   String @id @default(cuid())
+    text String
+}
