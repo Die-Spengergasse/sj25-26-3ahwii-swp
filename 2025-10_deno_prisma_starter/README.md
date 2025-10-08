@@ -11,3 +11,7 @@
 - prisma/schema.prisma erstellen oder von woanders kopieren
 - `.env` erstellen (siehe schema.prisma)
 - `.env` NICHT COMMITTEN (.gitignore)
+- `prisma validate` -> prüft ob die schema Datei OK ist (Prisma Plugin prüft auch;)
+- `prisma generate` -> generiert den client (Deno importierbar)
+- `prisma migrate dev` -- appliziert das Schema auf die DB
+- `deno add 'npm:@prisma/client'`
