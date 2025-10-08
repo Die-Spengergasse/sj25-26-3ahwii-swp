@@ -1,7 +1,8 @@
 {
     "tasks": {
         "dev": "deno run --watch main.ts",
-        "prisma": "deno -A prisma"
+        "prisma": "deno -A prisma",
+        "prisma:seed": "deno -A --env-file seed.ts"
     },
     "imports": {
         "@prisma/client": "npm:@prisma/client@^6.17.0",
@@ -11,5 +12,5 @@
     "fmt": {
         "indentWidth": 4,
         "lineWidth": 120
-    }
+    },
 }
